@@ -1,1 +1,1 @@
-# IBO: Iterative Bi-level Optimization for Blind Image Super-Resolution
+# Dual Representation Aggregation Network for Blind Image Super-Resolution via Iterative Bi-level Optimization
